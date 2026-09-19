@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.cache/
+.ruff_cache/
+*_OCR.docx
+*_OCR_tables.xlsx
+*_OCR.quality.md
+.venv/
+venv/
+*.egg-info/
